@@ -1,7 +1,6 @@
-# Welcome to streamlit
+# Aplicacion para reconocimeinto de digitos del conjunto MNIST
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+Realizado por mi
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+❤️
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
